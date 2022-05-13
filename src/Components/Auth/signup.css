@@ -1,0 +1,6 @@
+.background-signup {
+  background: url("../../Images/bg-signup.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
